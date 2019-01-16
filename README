@@ -1,4 +1,4 @@
-Introduction - Setup of AWS F1 Instance - GUI Flow - Optimization - C Kernel(SmithWaterman)
+Introduction - Setup of AWS F1 Instance - GUI Flow - Optimization - C Kernel(SmithWaterman) - Reference
 
 
 ##Setup of AWS F1 Instance
@@ -23,4 +23,15 @@ https://github.com/parimalp/awslabs_2018_2/blob/master/Optimization_lab.md
 https://github.com/Xilinx/SDAccel_Examples/wiki/Getting-Started-on-AWS-F1-with-SDAccel-and-C-OpenCL-Kernels
 https://github.com/Xilinx/SDAccel_Examples/wiki/Running-the-Smith-Waterman-OpenCL-Example-on-F1
 
+
+
+Reference Materials:
+https://www.xilinx.com/products/design-tools/acceleration-zone/aws.html
+https://github.com/aws/aws-fpga
+https://github.com/xupgit/awslabs
+https://github.com/Xilinx/SDAccel_Examples/wiki
+https://aws.amazon.com/marketplace
+
+
+*Later we will translate these to Chinese.
 
