@@ -1,1 +1,26 @@
-This is for aws-fpga.
+Introduction - Setup of AWS F1 Instance - GUI Flow - Optimization - C Kernel(SmithWaterman)
+
+
+##Setup of AWS F1 Instance
+++Create an AWS account
+++Register for AWS Educate
+++Launch F1 Instance
+++Create an S3 bucket
+++Connect to the instance(allow password login)
+https://github.com/Xilinx/SDAccel_Examples/wiki/Prerequisites-for-working-with-SDAccel-on-AWS-F1
+
+##GUI Flow
+++Installation & Setting
+++Start remote desktop
+++GUI Flow guidance
+https://github.com/xupgit/awslabs/blob/master/GUI_Flow_lab.md
+
+##Optimization
+https://github.com/parimalp/awslabs_2018_2/blob/master/Optimization_lab.md
+
+
+##C Kernel(SmithWaterman)
+https://github.com/Xilinx/SDAccel_Examples/wiki/Getting-Started-on-AWS-F1-with-SDAccel-and-C-OpenCL-Kernels
+https://github.com/Xilinx/SDAccel_Examples/wiki/Running-the-Smith-Waterman-OpenCL-Example-on-F1
+
+
