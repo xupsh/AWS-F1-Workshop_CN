@@ -2,11 +2,12 @@ Introduction - Setup of AWS F1 Instance - GUI Flow - Optimization - C Kernel(Smi
 
 
 ##Setup of AWS F1 Instance
-++Create an AWS account
-++Register for AWS Educate
-++Launch F1 Instance
+++AWS Account Registration
+++AWS Educate Registration
+++Launch an F1 Instance
 ++Create an S3 bucket
-++Connect to the instance(allow password login)
+++Connect to the instance
+https://github.com/xupsh/AWS-F1-Workshop_CN/Setup of AWS F1 Instance.pdf
 https://github.com/Xilinx/SDAccel_Examples/wiki/Prerequisites-for-working-with-SDAccel-on-AWS-F1
 
 ##GUI Flow
